@@ -1,5 +1,2 @@
 {
 "spider":"https://agit.ai/long/TV/src/branch/master/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
-
-
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xvbmcvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvMS50eHQ="]}]}],
