@@ -1,8 +1,8 @@
 {
-"spider":"https://od.lk/s/MTVfMjkxNjY1NzVf/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
+"spider":"https://agit.ai/long/TV/src/branch/master/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
 
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vZC5say9zL01UVmZNamt4TmpZMU5qVmYvMS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xvbmcvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvMS50eHQ="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
@@ -11,28 +11,23 @@
 //"wallpaper":"https://xxxx.xxxx/xxx/xxxx",  //膜板
 
 "sites":[
-{"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTBf/%E5%93%94%E5%93%A9.json"},
-{"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NjNf/%E5%AD%A6%E5%A0%82.json"},
-{"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTFf/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
-{"key": "戏曲","name": "📽戏曲〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NjJf/%E6%88%8F%E6%9B%B2.json"},
-{"key": "美食","name": " 🍲美食〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTdf/%E7%BE%8E%E9%A3%9F.json"},
-{"key": "少儿","name": "🅰️少儿〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NjBf/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"},
-{"key": "体育","name": "💋体育〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NjFf/%E4%BD%93%E8%82%B2.json"},
-{"key": "球类","name": "⚽️球类〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTlf/%E7%90%83%E7%B1%BB.json"},
-{"key": "棋牌","name": " 🅿️棋牌娱乐〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NThf/%E6%A3%8B%E7%89%8C.json"},
-{"key": "教程","name": "🏧教程〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTZf/%E6%95%99%E7%A8%8B.json"},
-{"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTNf/%E6%AD%8C%E6%9B%B2MV.json"},
-//{"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://od.lk/s/MTVfMjkxNjY1NTRf/%E7%9F%AD%E8%A7%86%E9%A2%91.json","jar":https://od.lk/s/MTVfMjkxNjY1NTJf/%E7%9F%AD%E8%A7%86%E9%A2%91.jpg"},
-{"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://od.lk/s/MTVfMjkxNjY1NTRf/%E7%9F%AD%E8%A7%86%E9%A2%91.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"},
+{"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/哔哩.json"},
+{"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/学堂.json"},
+{"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/演唱会.json"},
+{"key": "戏曲","name": "📽戏曲〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/戏曲.json"},
+{"key": "美食","name": " 🍲美食〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/美食.json"},
+{"key": "少儿","name": "🅰️少儿〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/少儿教育.json"},
+{"key": "体育","name": "💋体育〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/体育.json"},
+{"key": "球类","name": "⚽️球类〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/球类.json"},
+{"key": "棋牌","name": " 🅿️棋牌娱乐〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/棋牌.json"},
+{"key": "教程","name": "🏧教程〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/教程.json"},
+{"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/masterB/歌曲MV.json"},
+{"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/long/TV/raw/branch/masterB/短视频.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"},
 {"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明","name":"------公众号【云星日记】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明2","name":"------提供免费更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "M","name": "(新增哔哩bli套餐内容请到： 云星日记 频道反馈）","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "/"}
-
-
 ],
-
-
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
@@ -127,3 +122,4 @@
 ],
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
 }
+创建训练
