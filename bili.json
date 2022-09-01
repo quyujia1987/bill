@@ -13,11 +13,11 @@
 
 
 {
-"spider":"https://od.lk/s/MTVfMjkxNjY1NzVf/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
+"spider":"https://agit.ai/long/TV/raw/commit/80668c9a024bb53259efd132dbeccaa98f6d457b/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
 //"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
 
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vZC5say9zL01UVmZNamt4TmpZMU5qVmYvMS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xvbmcvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvMS50eHQ="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
