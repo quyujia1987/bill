@@ -1,20 +1,5 @@
-//微信公众号【云星111日记】制作分享
-//QQ频道搜索云星日记加入频道交流
-
-
-
-/**----以下为大佬们的相关信息---**/
-//巧技
-//唐长老
-//俊哥
-//影魔
-
-
-
-
 {
 "spider":"https://od.lk/s/MTVfMjkxNjY1NzVf/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
-//"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vZC5say9zL01UVmZNamt4TmpZMU5qVmYvMS50eHQ="]}]}],
