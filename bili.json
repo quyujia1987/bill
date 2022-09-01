@@ -1,21 +1,23 @@
-//微信公众号【云星日记】制作分享
-//微信公众号【云星测评】制作分享
-
+//微信公众号【云星111日记】制作分享
 //QQ频道搜索云星日记加入频道交流
-//关注公众号回复【接口】获取在线接口
-//关注公众号回复【本地接口】获取本地接口
-//保存外链网址实时在线更新
 
-//直接把在线网址外链输入TvBox就可以同步更新
-//打造属于自己的app，请看下面微信公号文章链接
-//TvBox生成项目打包教程：https://mp.weixin.qq.com/s/FDa4OSDwHemy8uDyhn-1UQ
-//TVBox在线接口地址：https://mp.weixin.qq.com/s/uCipLSKxHvEdwKpIaQTFlw
 
-"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
+
+/**----以下为大佬们的相关信息---**/
+//巧技
+//唐长老
+//俊哥
+//影魔
+
+
+
+
+{
+"spider":"https://od.lk/s/MTVfMjkxNjY1NzVf/bili.jpg;md5;c5c337bb2793598e9aa5953898fbb087",
 //"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
 
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xvbmcvVFYvc3JjL2JyYW5jaC9tYXN0ZXIvMS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vZC5say9zL01UVmZNamt4TmpZMU5qVmYvMS50eHQ="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
@@ -24,22 +26,19 @@
 //"wallpaper":"https://xxxx.xxxx/xxx/xxxx",  //膜板
 
 "sites":[
-
-{"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/哔哩.json"},
-{"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/学堂.json"},
-{"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/演唱会.json"},
-{"key": "戏曲","name": "📽戏曲〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/戏曲.json"},
-{"key": "美食","name": " 🍲美食〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/美食.json"},
-{"key": "少儿","name": "🅰️少儿〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/少儿教育.json"},
-{"key": "体育","name": "💋体育〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/体育.json"},
-{"key": "球类","name": "⚽️球类〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/球类.json"},
-{"key": "棋牌","name": " 🅿️棋牌娱乐〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/棋牌.json"},
-{"key": "教程","name": "🏧教程〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/教程.json"},
-{"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/long/TV/raw/branch/master/歌曲MV.json"},
-{"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/long/TV/raw/branch/master/短视频.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"},
-
-
-
+{"key": "Bili","name": "🅱️哔哩套餐〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTBf/%E5%93%94%E5%93%A9.json"},
+{"key": "学堂","name": "🏯学堂教育〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NjNf/%E5%AD%A6%E5%A0%82.json"},
+{"key": "演唱会","name": "🍟演唱会〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTFf/%E6%BC%94%E5%94%B1%E4%BC%9A.json"},
+{"key": "戏曲","name": "📽戏曲〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NjJf/%E6%88%8F%E6%9B%B2.json"},
+{"key": "美食","name": " 🍲美食〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTdf/%E7%BE%8E%E9%A3%9F.json"},
+{"key": "少儿","name": "🅰️少儿〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NjBf/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json"},
+{"key": "体育","name": "💋体育〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NjFf/%E4%BD%93%E8%82%B2.json"},
+{"key": "球类","name": "⚽️球类〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTlf/%E7%90%83%E7%B1%BB.json"},
+{"key": "棋牌","name": " 🅿️棋牌娱乐〔合集〕","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NThf/%E6%A3%8B%E7%89%8C.json"},
+{"key": "教程","name": "🏧教程〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTZf/%E6%95%99%E7%A8%8B.json"},
+{"key": "MV","name": "💽歌曲MV〔合集〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://od.lk/s/MTVfMjkxNjY1NTNf/%E6%AD%8C%E6%9B%B2MV.json"},
+//{"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://od.lk/s/MTVfMjkxNjY1NTRf/%E7%9F%AD%E8%A7%86%E9%A2%91.json","jar":https://od.lk/s/MTVfMjkxNjY1NTJf/%E7%9F%AD%E8%A7%86%E9%A2%91.jpg"},
+{"key": "csp_XYQBiu_分享短视频","name": "💠分享短视频〔XYQ〕","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://od.lk/s/MTVfMjkxNjY1NTRf/%E7%9F%AD%E8%A7%86%E9%A2%91.json","jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"},
 {"key":"空格1","name":" ","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明","name":"------公众号【云星日记】------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"说明2","name":"------提供免费更新维护------","type":3,"api":"360","searchable":1,"quickSearch":1,"filterable":1},
