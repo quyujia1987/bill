@@ -1,0 +1,18 @@
+{
+    "urls": [
+        {
+            "url": "https://agit.ai/long/A/raw/branch/master/osc",
+            "name": "long_all"
+        },
+        {
+            "url": "https://agit.ai/long/TV/raw/branch/master/bili.json",
+            "name": "long少儿"
+        }
+    ],
+    "vip": [
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "yeshijieC.json"
+        }
+    ]
+}
