@@ -5,6 +5,15 @@
             "name": "龙A"
         },
         {
-            "url": "https://gitea.com/boxlive/box/raw/branch/main/jk/jgfx822.json",
-            "name": "白嫖ShowBox"
-        },
+            "url": "https://agit.ai/long/TV/raw/branch/master/bili.json",
+            "name": "儿童专用",
+            "time": "2022-08-26 02:00:00"
+        }
+    ],
+    "vip": [
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "yeshijieC.json"
+        }
+    ]
+}
