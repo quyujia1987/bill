@@ -1,16 +1,16 @@
 {
     "urls": [
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "☁️云星〔纯绿色家庭版〕"
+            "url": "https://agit.ai/long/TV/raw/branch/master/bili.json",
+            "name": "儿童"
         },
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "☁️云星〔小纸条/推送/哔哩〕"
+            "url": "https://agit.ai/long/A/raw/branch/master/osc",
+            "name": "猫"
         },
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
-            "name": "☁️云星〔演唱会/学堂〕"
+            "url": "https://agit.ai/long/GN/raw/branch/master/n.json",
+            "name": "刚刚"
         }
     ],
     "vip": [
