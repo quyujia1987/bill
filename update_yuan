@@ -2,11 +2,11 @@
     "urls": [
         {
             "url": "https://agit.ai/long/A/raw/branch/master/osc",
-            "name": "long_all"
+            "name": "猫"
         },
         {
             "url": "https://agit.ai/long/TV/raw/branch/master/bili.json",
-            "name": "long少儿"
+            "name": "少儿"
         },
         {
             "url": "https://agit.ai/long/GN/raw/branch/master/n.json",
