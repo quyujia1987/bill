@@ -11,6 +11,10 @@
         {
             "url": "https://agit.ai/long/GN/raw/branch/master/n.json",
             "name": "刚刚"
+        },
+        {
+            "url": "https://agit.ai/long/CHild/raw/branch/master/child.json",
+            "name": "小孩"
         }
     ],
     "vip": [
