@@ -17,7 +17,7 @@
 //"spider":"http://maoyingshi.cc/tvbox/云星日记/jar/bili.jar",
 
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xvbmcvVFYvcmF3L2JyYW5jaC9tYXN0ZXIvMS50eHQ="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2xvbmcvQS9yYXcvYnJhbmNoL21hc3Rlci96aGliby50eHQ="]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
 //"wallpaper":"https://www.dmoe.cc/random.php",  //默认动漫少女
