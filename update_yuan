@@ -1,0 +1,27 @@
+{
+    "urls": [
+        {
+            "url": "https://agit.ai/long/TV/raw/branch/master/bili.json",
+            "name": "儿童"
+        },
+        {
+            "url": "https://agit.ai/long/A/raw/branch/master/osc",
+            "name": "猫"
+        },
+        {
+            "url": "https://agit.ai/long/GN/raw/branch/master/n.json",
+            "name": "刚刚"
+        },
+        {
+            "url": "https://agit.ai/long/CHild/raw/branch/master/child.json",
+            "name": "小孩"
+        }
+    ],
+    "vip": [
+        {
+            "url": "https://gitea.com/33/3/raw/branch/3/3/1",
+            "name": "白嫖影视"
+        }
+        
+    ]
+}
