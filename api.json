@@ -1,7 +1,7 @@
 {
     "api":[             
         {"key":"家庭","name":"☁️家庭〔纯绿色家庭版〕","ext":"http://maoyingshi.cc/tvbox/云星日记/1.m3u8","date":"" },             
-        {"key":"哔哩","name":"☁️〔哔哩套餐〕","ext":"https://agit.ai/long/TV/raw/branch/master/bili.json","date":"" },             
+        {"key":"哔哩","name":"☁️〔哔哩套餐〕","ext":"http://maoyingshi.cc/tvbox/云星日记/bili.json","date":"" },             
         {"key":"猫影视","name":"☁️〔猫影视太阳〕","ext":"http://miaotvs.cn/osc","date":"" },             
         {"key":"刚刚","name":"☁️〔刚刚稳定〕","ext":"http://刚刚.live/猫","date":"" },             
         {"key":"学习","name":"☁️〔小孩学习〕","ext":"https://agit.ai/long/CHild/raw/branch/master/child.json","date":"" },             
