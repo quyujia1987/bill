@@ -1,0 +1,43 @@
+{
+    "urls": [
+        {
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "家庭"
+        },
+        {
+            "url": "https://agit.ai/long/TV/raw/branch/master/bili.json",
+            "name": "儿童"
+        },
+        {
+            "url": "http://miaotvs.cn/osc",
+            "name": "猫"
+        },
+        {
+            "url": "http://刚刚.live/猫",
+            "name": "刚刚"
+        },
+        {
+            "url": "https://agit.ai/long/CHild/raw/branch/master/child.json",
+            "name": "小孩"
+        }
+    ],
+    "vip": [
+        {
+            "url": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+            "name": "1"
+        }, 
+        {
+            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+            "name": "2"
+        }, 
+        {
+            "url": "http://agit.ai/zzzgit/zzz/raw/branch/main/proxxx.json",
+            "name": "3"
+        }
+        
+    ]
+}
+
+
+
+
