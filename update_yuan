@@ -19,6 +19,10 @@
         {
             "url": "https://agit.ai/long/CHild/raw/branch/master/child.json",
             "name": "小孩"
+        },
+        {
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
+            "name": "月光宝盒"
         }
     ],
     "vip": [
